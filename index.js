@@ -4,4 +4,3 @@ function sayHello(){
 
 sayHello();
 sayHello();
-sayHello();
